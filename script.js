@@ -1,0 +1,1 @@
+// No extra JavaScript is required for this simple portfolio.
